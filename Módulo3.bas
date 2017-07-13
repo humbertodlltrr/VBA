@@ -1,4 +1,5 @@
 'Author: Humberto Della Torre
+'Contenido de ValidacionCampos
 Option Explicit
 Private Const ERRCOLOR = 22 'Rojo
 Private Const EMPCOLOR = 37 'Azul
